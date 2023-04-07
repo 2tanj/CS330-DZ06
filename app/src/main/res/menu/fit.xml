@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fit"
+        android:title="Fakultet Informacionih Tehnologija"
+        android:icon="@drawable/fit"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/fdu"
+        android:title="Faklutet Digitalnih Umetnosti"
+        android:icon="@drawable/fdu"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/fam"
+        android:title="Fakultet Za Menadzment"
+        android:icon="@drawable/fam"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
